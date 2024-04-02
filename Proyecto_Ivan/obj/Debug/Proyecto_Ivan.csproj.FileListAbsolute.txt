@@ -1,0 +1,7 @@
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\bin\Debug\Proyecto_Ivan.exe.config
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\bin\Debug\Proyecto_Ivan.exe
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\bin\Debug\Proyecto_Ivan.pdb
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\obj\Debug\Proyecto_Ivan.csproj.AssemblyReference.cache
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\obj\Debug\Proyecto_Ivan.csproj.CoreCompileInputs.cache
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\obj\Debug\Proyecto_Ivan.exe
+C:\Personal\Proyectos\Proyecto_Ivan\Proyecto_Ivan\obj\Debug\Proyecto_Ivan.pdb
